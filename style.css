@@ -1,0 +1,61 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container
+{
+    height: 100vh;
+    background: url(BG.jpg);
+    width: 100%;
+    text-align: center;
+}
+.sign-btn
+{
+    position: absolute;
+    top: 8%;
+    left: 90%;
+    background: #da06e5;
+    color: #fff;
+    width: 80px;
+    height: 40px;
+    font-size: 15px;
+    opacity: 0.9;
+    border-radius: 2px;
+    border: 0;
+}
+.sign-btn:hover
+{
+    opacity: 1;
+    cursor: pointer;
+}
+.sub-container
+{
+    margin-top: 70px;
+}
+.see
+{
+    font-size: 80px;
+    font-weight: 700;
+    color: #fff;
+    font-family: Helvetica;
+}
+.watch
+{
+    font-size: 40px;
+    font-weight: 300;
+    color: #fff;
+    font-family: Helvetica;
+}
+.join-btn
+{
+    border: 0;
+    background: #da06e5;
+    padding: 10px 10px;
+    font-size: 40px;
+    color: #fff;
+    font-family: Helvetica;
+    cursor: pointer;
+}
+
